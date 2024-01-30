@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    padding: 10px;
+    margin: 50px;
+}
+.kt{
+    width: 100px;   
+}
+td{
+    width: 300px;
+}
+.tg{
+    width: 100px
+}
+.cd{
+    color: red;
+}
+.v{
+    border-collapse: collapse;
+    border-color: greenyellow;
+
+}
+.d1{
+    background-color: rgb(44, 173, 44);
+    color: white;
+}
+.d2{
+    background-color: rgb(200, 227, 151);
+}
+.v td:last-child{
+    color: red;
+}
+
